@@ -35,7 +35,7 @@ Simulazione di un incrocio con quattro semafori coordinati.
 
 ---
 
-### 🚶 Semaforo con Pulsante  
+## 🚶 Semaforo con Pulsante  
 Semaforo pedonale attivato tramite pulsante.  
 
 **✔️ Concetti base:**
